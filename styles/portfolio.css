@@ -39,6 +39,16 @@ nav ul {
     border-radius: 5px;
     background-color: #FD6E0A;
 }
+.btn-secondary{
+    color: #FD6E0A ;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid ;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
 
 header {
     background: #FFF8F3;
